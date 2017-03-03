@@ -1,4 +1,4 @@
-# Unit conversion - A small offline converter
+# Units - A small portable unit converter
 
 ## Overview
 
