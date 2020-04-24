@@ -4,7 +4,7 @@
 
 This is a very small offline-first mobile-friendly unit conversion tool for the browser. There are many full featured unit converters out there, so every effort has been made to keep this as simple, fast, and portable as possible.
 
-An demo is available [here](https://dohliam.github.io/tiny_tools/units/).
+A demo is available [here](https://dohliam.github.io/tiny_tools/units/).
 
 ## Usage
 
@@ -140,7 +140,7 @@ Other tools for working with numbers and units that might also be of interest:
 
 ## Credits
 
-[Milligram](https://github.com/milligram/milligram) CSS by @cjpatoilo, prototyped using [dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css)
+* [Milligram](https://github.com/milligram/milligram) CSS by @cjpatoilo, prototyped using [dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css)
 * [github-corners](https://github.com/tholman/github-corners) by @tholman
 
 ## License 
